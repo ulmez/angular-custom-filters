@@ -1,0 +1,26 @@
+{
+  "name": "angular-custom-filters",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ulmez/angular-custom-filters",
+  "authors": [
+    "ulme <ulmezz@gmail.com>"
+  ],
+  "description": "A set of custom filters for angularjs",
+  "main": "src/angular-custom-filters.js",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "examples"
+  ],
+  "dependencies": {
+    "angularjs": "~1.2.21"
+  }
+}
